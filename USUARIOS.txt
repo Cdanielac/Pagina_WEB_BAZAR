@@ -1,0 +1,15 @@
+Administrador 
+Email: admin@gmail.com
+Contraseña: admin
+
+DaniC - cliente
+Email: cdaniela.cdc@gmail.com
+Contraseña: 1234
+
+Gabriel - cliente
+Email:gabL@gmail.com
+Contraseña: 123456
+
+Anyelen - cliente
+Email: anyeIb@gmail.com
+Contraseña: anye123
