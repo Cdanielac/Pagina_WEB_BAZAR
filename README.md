@@ -10,7 +10,7 @@
   </head>
   <body>
     <h1>Pagina Web IAR DECO&BAZAR</h1>
-    <image src="Tablas_BD-Correa Daniela.png">
+    <image src="Tablas_BD-Correa_Daniela.png">
   </body>
 </html>
  
