@@ -1,0 +1,20 @@
+.p1 {
+    font-weight: 100;line-height: 1.5; margin: 0; font-size: 2em;" align: justify
+}
+.p2 {
+    font-weight: 800;
+    align: center
+}
+.p3{
+    width: 200px; align:center
+}
+.image-fondo {
+    background-image: url('../img/rosapastel.png');
+}
+.cabecera {
+  color: #fff;
+  height: 200px;
+  line-height: 200px;
+  text-align: center;
+  vertical-align: middle;
+}

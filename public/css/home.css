@@ -1,0 +1,13 @@
+.image-fondo {
+    background-image: url('../img/verdepastel.jpg');
+}
+.cabecera {
+  color: black;
+  height: 200px;
+  line-height: 200px;
+  text-align: center;
+  vertical-align: middle;
+}
+.pp{
+  font-weight: 100;line-height: 1.5; margin: 0; font-size: 2em;
+}

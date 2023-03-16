@@ -1,0 +1,37 @@
+.p1 {
+   font-weight: 100;line-height: 1.5; margin: 0; font-size: calc(1em + 1vw);
+}
+.p2 {
+    font-weight: 800;
+    text-align: center;
+    vertical-align: middle;
+}
+.image-fondo {
+    background-image: url('../img/naranjapastel.jpg');
+}
+
+.image-fondo2 {
+    background-image: url('../img/celestepastel.jpg');
+}
+
+.image-fondo3 {
+    background-image: url('../img/rosapastel.jpg');
+}
+
+.image-fondo4 {
+    background-image: url('../img/moradopastel.jpg');
+}
+
+.image-fondo5 {
+    background-image: url('../img/cc.png');
+}
+
+
+.cabecera{
+  color: #fff;
+  height: 200px;
+  line-height: 200px;
+  text-align: center;
+  vertical-align: middle;
+}
+
